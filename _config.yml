@@ -1,3 +1,5 @@
 title: Neoox Dev's Blog
-description: Engineering
+description: engineering
 theme: minima
+url: "https://neooxdev.github.io"
+baseurl: ""
